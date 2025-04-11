@@ -15,7 +15,9 @@
   `python -m venv pyepye` o nome da sua venv iria no lugar de "pyepye"
 - Depois de criar a venv, é preciso ativar a mesma.
   - Estando no diretório do projeto (não o da venv) basta digitar no terminal:
+    
   `pyepye\Scripts\activate` **no Windows**
+
   `source pyepye/bin/activate` **no Linux** (dependendo do seu shell pode ser um pouco diferente).
 
 ### 3. Instalar as **Dependências**
