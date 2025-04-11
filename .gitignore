@@ -159,4 +159,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+#venv que eu criei
 pyepye/
+
+#arquivos criados pelo Jupyter
+.ipynb_checkpoints/
